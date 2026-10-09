@@ -1,0 +1,2 @@
+# WORLDCORE-wallet
+WCT
